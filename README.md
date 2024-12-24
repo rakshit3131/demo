@@ -1,3 +1,3 @@
 # demo
-first demo project
+first demo project.
 Author - Raskhit Ramani
